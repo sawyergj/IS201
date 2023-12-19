@@ -1,0 +1,24 @@
+.link{
+    color: white;
+    font-weight: bolder;
+}
+.paragraph{
+    font-weight: bold;
+    font-style: italic;
+}
+.indent{
+    text-indent: 50px;
+}
+.topics{
+    font-size: larger;
+    font-weight: bolder;
+}
+.bullets{
+    margin-left: 50px;
+}
+.hill{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

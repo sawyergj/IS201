@@ -1,0 +1,69 @@
+.photo{
+    height: 300px;
+    width: 200px;
+}
+.header{
+    text-align: center;
+    color: whitesmoke;
+}
+.poster{
+    text-align: center;
+}
+.link{
+    text-align: right;
+    color: whitesmoke;
+    font-size: large;
+    margin-right: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(105, 98, 98);
+}
+.zoom:hover {
+    transform: scale(1.2);
+}
+.cinema{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3cm;
+}
+.list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    margin-left: 280px;
+}
+.ten{
+    color: lightskyblue;
+}
+.foot{
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-size: larger;
+}
+.white{
+    color: whitesmoke;
+}
+.title{
+    font-size: large;
+    font-weight: bold;
+}
+.return{
+    position:fixed;
+    left: 100px;
+    top: 685px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+.red{
+    color: red;
+}
+.green{
+    color: rgb(167, 234, 68);
+}
+.tableau{
+    margin-left: 360px;
+}
+
+.customdiv{
+    margin-left: 280px;
+}
